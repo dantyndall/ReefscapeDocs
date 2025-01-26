@@ -8,5 +8,5 @@ Summary of contents:
 
 | File | Description |
 | --- | --- |
-| FRC_Rule_Cheat_Sheet_2024.pptx/FRC_Rule_Cheat_Sheet_2024.pdf | Quick cheat sheet of important rules and their penalties. |
+| reefscape_frc_rule_cheatsheet.pdf/reefscape_rfc_rule_cheatsheet.pptx | Quick cheat sheet of important rules and their penalties. |
   
